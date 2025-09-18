@@ -19,7 +19,7 @@ A passionate Laravel Developer || PHP Enthusiast || Web Application Builder from
 ![](https://github-readme-stats.vercel.app/api?username=MD-RIFAT-FAKIR&show_icons=true&theme=neon&hide_border=false&cache_seconds=86400)
 
 
-![](https://github-readme-stats.vercel.app/api?username=MD-RIFAT-FAKIR&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=MD-RIFAT-FAKIR&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-RIFAT-FAKIR&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
